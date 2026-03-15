@@ -1,0 +1,13 @@
+<h2>Films</h2>
+
+<div class="movie">
+<h3>Film 1</h3>
+<iframe src="video"></iframe>
+</div>
+
+<h2>Documentaires</h2>
+
+<div class="movie">
+<h3>Doc 1</h3>
+<iframe src="video"></iframe>
+</div>
