@@ -1,0 +1,18 @@
+<style>
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,200px);
+gap:20px;
+justify-content:center;
+}
+
+</style>
+
+<div class="grid">
+
+<img src="film1.jpg">
+<img src="film2.jpg">
+<img src="film3.jpg">
+
+</div>
